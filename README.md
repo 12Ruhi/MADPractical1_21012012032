@@ -1,5 +1,5 @@
 # MADPractical1_21012012032
-![image](https://user-images.githubusercontent.com/111366028/185172714-a8e22681-3d79-487b-aec4-48825dd0a70b.png)
+
 ![Screenshot (19)](https://user-images.githubusercontent.com/111366028/186688375-5da652ba-8d89-4cbd-be1c-20fde194beca.png)
 ![image](https://user-images.githubusercontent.com/111366028/185175289-df4dd518-48b2-4bbb-b1ce-75b10ff0687d.png)
 ![Screenshot (20)](https://user-images.githubusercontent.com/111366028/186688502-da8c22a1-de52-40f4-ba73-5d9362671295.png)
